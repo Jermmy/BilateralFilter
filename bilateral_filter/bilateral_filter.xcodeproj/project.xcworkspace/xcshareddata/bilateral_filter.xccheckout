@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1CC85107-8765-4726-8AD1-A2B23B92ADD8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>bilateral_filter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F040D54736D3C1D1E97E8B84C8E8205C253C1D85</key>
+		<string>github.com:Jermmy/BilateralFilter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>bilateral_filter/bilateral_filter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F040D54736D3C1D1E97E8B84C8E8205C253C1D85</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Jermmy/BilateralFilter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F040D54736D3C1D1E97E8B84C8E8205C253C1D85</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F040D54736D3C1D1E97E8B84C8E8205C253C1D85</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BilateralFilter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
